@@ -1,0 +1,1 @@
+{5:SA:= saturne~%95.83% disque~%91.67% cuisine~%87.50% ordinateur~%83.33% gomme~%79.17% calculatrice~%75.00% porte~%70.83% arbre~%66.67% fouet~%62.50% climat~%58.33% mur~%54.17% carton~%50.00% montagne~%45.83% cartouche~%41.67% chien~%37.50% banc~%33.33% papier~%29.17% nuage~%25.00% poisson~%20.83% feu~%16.67% touche~%12.50% gant~%8.33% robot~%4.17% lune~%0.00% oiseau}

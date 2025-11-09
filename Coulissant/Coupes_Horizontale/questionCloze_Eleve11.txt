@@ -1,0 +1,1 @@
+{5:SA:=banc~%95.83%fouet~%91.67%saturne~%87.50%cuisine~%83.33%bouteille~%79.17%climat~%75.00%carton~%70.83%robot~%66.67%soleil~%62.50%chat~%58.33%champ~%54.17%ordinateur~%50.00%lune~%45.83%sac~%41.67%mars~%37.50%mur~%33.33%montagne~%29.17%chien~%25.00%calculatrice~%20.83%plage~%16.67%poisson~%12.50%disque~%8.33%nuage~%4.17%voiture~%0.00%machine}

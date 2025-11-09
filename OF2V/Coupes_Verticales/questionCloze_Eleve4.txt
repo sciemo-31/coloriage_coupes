@@ -1,0 +1,1 @@
+{5:SA:=disque~%95.83%sac~%91.67%cartouche~%87.50%voyager~%83.33%ballon~%79.17%gomme~%75.00%chat~%70.83%calculatrice~%66.67%champ~%62.50%soleil~%58.33%hiver~%54.17%banc~%50.00%robot~%45.83%cahier~%41.67%voiture~%37.50%lunette~%33.33%plage~%29.17%oiseau~%25.00%machine~%20.83%lune~%16.67%ciel~%12.50%cuisine~%8.33%porte~%4.17%feu~%0.00%poisson}

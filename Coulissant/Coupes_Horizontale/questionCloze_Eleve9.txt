@@ -1,0 +1,1 @@
+{5:SA:=arbre~%95.83%calculatrice~%91.67%fourchette~%87.50%voiture~%83.33%plage~%79.17%saturne~%75.00%cartouche~%70.83%lunette~%66.67%ballon~%62.50%hiver~%58.33%mur~%54.17%poisson~%50.00%voyager~%45.83%lune~%41.67%cahier~%37.50%cuisine~%33.33%porte~%29.17%gant~%25.00%feu~%20.83%oiseau~%16.67%fouet~%12.50%robot~%8.33%verre~%4.17%disque~%0.00%mars}

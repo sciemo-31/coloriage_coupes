@@ -1,0 +1,1 @@
+{5:SA:=verre~%95.83%disque~%91.67%mars~%87.50%bouteille~%83.33%ciel~%79.17%chien~%75.00%champ~%70.83%circuit~%66.67%prise~%62.50%ordinateur~%58.33%soleil~%54.17%carton~%50.00%gomme~%45.83%montagne~%41.67%machine~%37.50%plante~%33.33%papier~%29.17%nuage~%25.00%rose~%20.83%vitrage~%16.67%banc~%12.50%sac~%8.33%chat~%4.17%touche~%0.00%climat}

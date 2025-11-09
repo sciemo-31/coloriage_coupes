@@ -1,0 +1,1 @@
+{5:SA:=poisson~%95.83%cartouche~%91.67%prise~%87.50%nuage~%83.33%oiseau~%79.17%plante~%75.00%soleil~%70.83%rose~%66.67%cuisine~%62.50%fourchette~%58.33%climat~%54.17%plage~%50.00%hiver~%45.83%circuit~%41.67%disque~%37.50%lunette~%33.33%saturne~%29.17%sac~%25.00%voyager~%20.83%ciel~%16.67%verre~%12.50%arbre~%8.33%lune~%4.17%champ~%0.00%carton}

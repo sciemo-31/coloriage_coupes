@@ -1,0 +1,1 @@
+{5:SA:=terrasse~%83.33%toiture~%66.67%urbanisme~%50.00%ventilation~%33.33%montant~%16.67%assainissement~%0.00%bardage}

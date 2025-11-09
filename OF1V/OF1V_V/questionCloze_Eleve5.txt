@@ -1,0 +1,1 @@
+{1:SA:=nuage~%95.83%feu~%91.67%calculatrice~%87.50%sac~%83.33%hiver~%79.17%climat~%75.00%lunette~%70.83%mur~%66.67%cahier~%62.50%voyager~%58.33%fouet~%54.17%gant~%50.00%ballon~%45.83%saturne~%41.67%prise~%37.50%soleil~%33.33%voiture~%29.17%carton~%25.00%touche~%20.83%rose~%16.67%champ~%12.50%mars~%8.33%plante~%4.17%cartouche~%0.00%verre}

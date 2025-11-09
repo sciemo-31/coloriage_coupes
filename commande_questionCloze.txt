@@ -1,0 +1,31 @@
+Commandes à exécuter pour la liste de mots pour chaque élèves.
+
+Etape 1:Cela remplace chaque mot entre guillemets par lui-même + saut de ligne, et supprime le reste.
+
+:%s/\v("[^"]*")|[^"]+/\1\r/g
+
+
+Etape 2:Supprime toutes les lignes vides restantes.
+
+:g/^\s*$/d
+
+
+Etape 3:supprimer les guillemets (")
+
+:%s/"//g
+
+(Etape 4: Faire une macro pour répéter les actions.
+appuyer sur qn pour commencer l'enregistrement puis sur q pour l'arréter.
+pour répéter la macro 1 fois: @n
+pour répéter la macro 5 fois: @.5@n)
+
+Etape 4: lancer la commande: ./pourcentage.sh questionEleveX.txt => ajoute les pourcentages devant chauque mot
+
+Etape 5: Ecrire {1:shortanswer:= => en lançant la macro vim @b
+
+Etape 6: Mettre tout sur la même ligne. Macro vim => @.xx@n xx correspond au nombre de rététition de la macro
+
+Etape 7: modifier le dernier caractère ~ par }
+
+Etape 8: Supprimer tous les espace avec la commande:s/\s\+//g
+ 

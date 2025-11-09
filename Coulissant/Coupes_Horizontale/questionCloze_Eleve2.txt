@@ -1,0 +1,1 @@
+{5:SA:=carton~%95.83%voiture~%91.67%prise~%87.50%voyager~%83.33%gant~%79.17%plage~%75.00%nuage~%70.83%champ~%66.67%mars~%62.50%mur~%58.33%feu~%54.17%machine~%50.00%oiseau~%45.83%soleil~%41.67%cartouche~%37.50%ballon~%33.33%fouet~%29.17%circuit~%25.00%disque~%20.83%saturne~%16.67%poisson~%12.50%lunette~%8.33%touche~%4.17%ordinateur~%0.00%ciel}

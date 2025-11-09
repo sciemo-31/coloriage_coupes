@@ -1,0 +1,1 @@
+{5:SA:=rose~%95.83%ballon~%91.67%mur~%87.50%plage~%83.33%gant~%79.17%voiture~%75.00%lune~%70.83%arbre~%66.67%cartouche~%62.50%machine~%58.33%feu~%54.17%verre~%50.00%ciel~%45.83%fouet~%41.67%plante~%37.50%oiseau~%33.33%sac~%29.17%saturne~%25.00%lunette~%20.83%chat~%16.67%papier~%12.50%banc~%8.33%mars~%4.17%prise~%0.00%robot}

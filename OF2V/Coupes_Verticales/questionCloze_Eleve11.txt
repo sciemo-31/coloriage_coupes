@@ -1,0 +1,1 @@
+{5:SA:= cuisine~%95.83% arbre~%91.67% rose~%87.50% cahier~%83.33% soleil~%79.17% circuit~%75.00% fourchette~%70.83% nuage~%66.67% feu~%62.50% ciel~%58.33% gant~%54.17% champ~%50.00% ordinateur~%45.83% oiseau~%41.67% plage~%37.50% voiture~%33.33% prise~%29.17% lunette~%25.00% gomme~%20.83% robot~%16.67% calculatrice~%12.50% papier~%8.33% banc~%4.17% disque~%0.00% bouteille}

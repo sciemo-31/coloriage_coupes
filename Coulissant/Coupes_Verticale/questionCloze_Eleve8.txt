@@ -1,0 +1,1 @@
+{5:SA:=soubassement~%83.33%structurelle~%66.67%thermique~%50.00%urbaniste~%33.33%vitrage~%16.67%zone~%0.00%acoustique}

@@ -1,0 +1,1 @@
+{5:SA:= ciel~%95.83% lunette~%91.67% montagne~%87.50% oiseau~%83.33% gomme~%79.17% hiver~%75.00% mur~%70.83% disque~%66.67% voyager~%62.50% saturne~%58.33% carton~%54.17% calculatrice~%50.00% robot~%45.83% chat~%41.67% chien~%37.50% papier~%33.33% circuit~%29.17% feu~%25.00% arbre~%20.83% prise~%16.67% cahier~%12.50% ballon~%8.33% soleil~%4.17% fourchette~%0.00% sac}

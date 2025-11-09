@@ -1,0 +1,1 @@
+{5:SA:=nuage~%95.83%voiture~%91.67%machine~%87.50%oiseau~%83.33%fourchette~%79.17%cartouche~%75.00%papier~%70.83%cahier~%66.67%ciel~%62.50%lunette~%58.33%touche~%54.17%hiver~%50.00%gant~%45.83%rose~%41.67%feu~%37.50%gomme~%33.33%voyager~%29.17%ballon~%25.00%porte~%20.83%arbre~%16.67%plante~%12.50%verre~%8.33%prise~%4.17%vitrage~%0.00%circuit}

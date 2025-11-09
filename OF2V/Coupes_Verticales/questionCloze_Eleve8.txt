@@ -1,0 +1,1 @@
+{5:SA:=ballon~%95.83%voyager~%91.67%verre~%87.50%banc~%83.33%saturne~%79.17%lunette~%75.00%champ~%70.83%disque~%66.67%cartouche~%62.50%sac~%58.33%cahier~%54.17%poisson~%50.00%prise~%45.83%lune~%41.67%chien~%37.50%montagne~%33.33%soleil~%29.17%plage~%25.00%mars~%20.83%ciel~%16.67%carton~%12.50%bouteille~%8.33%cuisine~%4.17%hiver~%0.00%gant}

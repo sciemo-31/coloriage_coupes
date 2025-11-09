@@ -1,0 +1,1 @@
+{5:SA:=cahier~%95.83%chien~%91.67%poisson~%87.50%hiver~%83.33%ordinateur~%79.17%rose~%75.00%cuisine~%70.83%ciel~%66.67%voyager~%62.50%montagne~%58.33%sac~%54.17%vitrage~%50.00%bouteille~%45.83%saturne~%41.67%plage~%37.50%champ~%33.33%voiture~%29.17%ballon~%25.00%arbre~%20.83%mars~%16.67%nuage~%12.50%feu~%8.33%fouet~%4.17%plante~%0.00%chat}

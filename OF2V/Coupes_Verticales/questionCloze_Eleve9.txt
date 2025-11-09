@@ -1,0 +1,1 @@
+{5:SA:= montagne~%95.83% climat~%91.67% gomme~%87.50% cuisine~%83.33% lunette~%79.17% chien~%75.00% lune~%70.83% circuit~%66.67% hiver~%62.50% rose~%58.33% mur~%54.17% papier~%50.00% cahier~%45.83% prise~%41.67% voyager~%37.50% poisson~%33.33% fouet~%29.17% voiture~%25.00% ordinateur~%20.83% nuage~%16.67% calculatrice~%12.50% gant~%8.33% ciel~%4.17% chat~%0.00% sac}

@@ -1,0 +1,1 @@
+{5:SA:=hiver~%95.83%papier~%91.67%gomme~%87.50%porte~%83.33%fourchette~%79.17%cahier~%75.00%chat~%70.83%robot~%66.67%verre~%62.50%lune~%58.33%bouteille~%54.17%arbre~%50.00%cuisine~%45.83%banc~%41.67%calculatrice~%37.50%sac~%33.33%vitrage~%29.17%rose~%25.00%climat~%20.83%montagne~%16.67%plante~%12.50%carton~%8.33%voiture~%4.17%prise~%0.00%voyager}

@@ -1,0 +1,1 @@
+{5:SA:=carton~%95.83%oiseau~%91.67%ordinateur~%87.50%prise~%83.33%vitrage~%79.17%mars~%75.00%fourchette~%70.83%poisson~%66.67%bouteille~%62.50%circuit~%58.33%cahier~%54.17%robot~%50.00%arbre~%45.83%lune~%41.67%champ~%37.50%gant~%33.33%plante~%29.17%chien~%25.00%soleil~%20.83%voyager~%16.67%cartouche~%12.50%verre~%8.33%banc~%4.17%cuisine~%0.00%disque}

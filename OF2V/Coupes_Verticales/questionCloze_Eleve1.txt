@@ -1,0 +1,1 @@
+{5:SA:=voiture~%95.83%fourchette~%91.67%voyager~%87.50%mur~%83.33%cahier~%79.17%carton~%75.00%fouet~%70.83%gant~%66.67%lune~%62.50%cuisine~%58.33%mars~%54.17%poissongne~%50.00%climat~%45.83%machine~%41.67%souris~%37.5%saturne~%33.33%nuage~%29.17%vitrage~%25.00%rose~%20.83%champ~%16.67%porte~%12.50%circuit~%8.33%feu~%4.17%ordinateur~%0%ballon}

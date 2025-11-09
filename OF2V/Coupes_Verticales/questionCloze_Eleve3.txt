@@ -1,0 +1,1 @@
+{5:SA:=mars~%95.83%saturne~%91.67%poisson~%87.50%nuage~%83.33%fourchette~%79.17%circuit~%75.00%chien~%70.83%plage~%66.67%sac~%62.50%robot~%58.33%voyager~%54.17%verre~%50.00%machine~%45.83%montagne~%41.67%lune~%37.50%cahier~%33.33%feu~%29.17%voiture~%25.00%plante~%20.83%touche~%16.67%champ~%12.50%rose~%8.33%mur~%4.17%cuisine~%0.00%gomme}

@@ -1,0 +1,1 @@
+{5:SA:=soleil~%95.83%ciel~%91.67%prise~%87.50%vitrage~%83.33%lune~%79.17%feu~%75.00%hiver~%70.83%ordinateur~%66.67%mur~%62.50%ballon~%58.33%touche~%54.17%banc~%50.00%verre~%45.83%cartouche~%41.67%arbre~%37.50%lunette~%33.33%mars~%29.17%montagne~%25.00%chien~%20.83%poisson~%16.67%robot~%12.50%plage~%8.33%fourchette~%4.17%porte~%0.00%plante}

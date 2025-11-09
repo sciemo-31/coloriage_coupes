@@ -1,0 +1,1 @@
+{5:SA:=camion~%83.33%harnais~%66.67%ouvrier~%50.00%menuiserie~%33.33%mur~%16.67%norme~%0.00%permis}

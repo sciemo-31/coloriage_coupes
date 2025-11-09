@@ -1,0 +1,1 @@
+{5:SA:=robot~%95.83%banc~%91.67%montagne~%87.50%porte~%83.33%cahier~%79.17%voiture~%75.00%calculatrice~%70.83%fouet~%66.67%mars~%62.50%gant~%58.33%machine~%54.17%touche~%50.00%ballon~%45.83%feu~%41.67%chien~%37.50%mur~%33.33%bouteille~%29.17%vitrage~%25.00%chat~%20.83%gomme~%16.67%papier~%12.50%poisson~%8.33%cartouche~%4.17%prise~%0.00%nuage}

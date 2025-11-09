@@ -1,0 +1,1 @@
+{5:SA:=disque~%95.83%machine~%91.67%voyager~%87.50%gomme~%83.33%mur~%79.17%arbre~%75.00%porte~%70.83%poisson~%66.67%mars~%62.50%touche~%58.33%bouteille~%54.17%lunette~%50.00%verre~%45.83%gant~%41.67%chien~%37.50%fouet~%33.33%ballon~%29.17%feu~%25.00%chat~%20.83%circuit~%16.67%plante~%12.50%montagne~%8.33%lune~%4.17%vitrage~%0.00%robot}

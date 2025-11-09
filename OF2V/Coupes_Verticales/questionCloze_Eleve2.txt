@@ -1,0 +1,1 @@
+{5:SA:=climat~%95.83%verre~%91.67%montagne~%87.50%fourchette~%83.33%arbre~%79.17%porte~%75.00%cartouche~%70.83%lunette~%66.67%ordinateur~%62.50%mur~%58.33%nuage~%54.17%bouteille~%50.00%voiture~%45.83%circuit~%41.67%ciel~%37.50%mars~%33.33%oiseau~%29.17%feu~%25.00%cuisine~%20.83%sac~%16.67%saturne~%12.50%cahier~%8.33%prise~%4.17%rose~%0.00%gomme}

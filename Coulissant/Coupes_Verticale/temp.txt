@@ -1,0 +1,7 @@
+ architecte
+%83.33% aluminium
+%66.67% charpente
+%50.00% chantier
+%33.33% cloison
+%16.67% construction
+%0.00% devis

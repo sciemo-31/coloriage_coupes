@@ -1,0 +1,1 @@
+{5:SA:=sac~%95.83%carton~%91.67%cahier~%87.50%ordinateur~%83.33%champ~%79.17%ciel~%75.00%climat~%70.83%voiture~%66.67%plage~%62.50%rose~%58.33%banc~%54.17%soleil~%50.00%saturne~%45.83%cuisine~%41.67%oiseau~%37.50%prise~%33.33%cartouche~%29.17%calculatrice~%25.00%nuage~%20.83%papier~%16.67%fourchette~%12.50%hiver~%8.33%disque~%4.17%machine~%0.00%voyager}

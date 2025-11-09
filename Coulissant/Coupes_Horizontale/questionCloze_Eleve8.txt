@@ -1,0 +1,1 @@
+{5:SA:=fourchette~%95.83%porte~%91.67%plante~%87.50%sac~%83.33%gant~%79.17%saturne~%75.00%cuisine~%70.83%disque~%66.67%cahier~%62.50%rose~%58.33%voiture~%54.17%oiseau~%50.00%nuage~%45.83%carton~%41.67%gomme~%37.50%climat~%33.33%machine~%29.17%bouteille~%25.00%papier~%20.83%chat~%16.67%champ~%12.50%circuit~%8.33%voyager~%4.17%calculatrice~%0.00%fouet}
